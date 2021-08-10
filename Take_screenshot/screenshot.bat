@@ -1,0 +1,1 @@
+d:\laptrinh\python\Take_screenshot\screenshot.py
